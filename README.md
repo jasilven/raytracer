@@ -8,7 +8,7 @@ Program produces image like this:
 
 ![Result](out.png)
 
-# running
+## running
 ```
 $ go run *.go
 ```
