@@ -116,7 +116,7 @@ func main() {
 
 	s := sphere{
 		Center: vector{0.0, 0.0, -9.0},
-		Radius: 4.0,
+		Radius: 3.0,
 		Color:  color.RGBA{240, 0, 0, 255},
 	}
 
