@@ -12,4 +12,4 @@ Program produces image like this:
 ```
 $ go run *.go
 ```
-Produces image file ```out.png``` in  current directory.
+Produces image file ```out.png``` in the current directory.
